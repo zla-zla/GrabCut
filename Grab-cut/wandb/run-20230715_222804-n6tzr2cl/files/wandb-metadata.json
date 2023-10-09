@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.7.7",
+    "heartbeatAt": "2023-07-15T14:28:06.663326",
+    "startedAt": "2023-07-15T14:28:04.628786",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:/Users/10515/Desktop/examine/Grab-cut/metrics.py",
+    "codePath": "metrics.py",
+    "host": "LAPTOP-G4GJ76I2",
+    "username": "10515",
+    "executable": "D:\\anaconda3\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "total": 199.99316024780273,
+        "used": 181.4309959411621
+    },
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.882068634033203
+    }
+}
